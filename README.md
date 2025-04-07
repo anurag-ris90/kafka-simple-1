@@ -1,7 +1,7 @@
 # kafka-simple-1
 
 Note: This is a practice project.
-(source: https://www.youtube.com/watch?v=Ydts27Qa8H0)
+(source: mentioned in website link in project info)
 
 ## Steps:  
 
